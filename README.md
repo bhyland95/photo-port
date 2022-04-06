@@ -36,7 +36,7 @@ You can filter the photos you see by clicking on the category located on the nav
 ## Questions
 If you have any questions, please reach out! 
 <br />
-Find me on GitHub: [Bhyland95](https://github.com/Bhyland95)<br />
+Find me on GitHub: [Bhyland95](https://github.com/Bhyland95) <br />
 <br />
 Email me: blakehyland95@gmail.com
 
